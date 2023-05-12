@@ -12,7 +12,7 @@
  */
 namespace Facebook\ShipIt;
 
-use namespace HH\Lib\{Str, C, Vec, Regex}; // @oss-enable
+use namespace HH\Lib\{Str, C, Vec, Regex}; // @yusufsuryanata99
 
 final abstract class FBCommonFilters {
 
